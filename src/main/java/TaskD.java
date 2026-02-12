@@ -13,6 +13,7 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
 
 //NOT DONE YET NEED TO IMPLIMENT GETTING NICKNAME FROM ACCOUNTS CSV
+//Should have a combiner
 public class TaskD {
 
     //Mapper class for Task D
