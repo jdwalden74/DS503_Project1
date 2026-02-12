@@ -55,8 +55,6 @@ public class TaskG {
                 }
             }
         }
-            
-
         
         private IntWritable id = new IntWritable();
         private IntWritable time = new IntWritable();
@@ -81,6 +79,8 @@ public class TaskG {
         }
     }
 
+
+    //Basically in reducer check length of received array and if its 1 dont write
 
     public static void main(String[] args) throws Exception {
 
