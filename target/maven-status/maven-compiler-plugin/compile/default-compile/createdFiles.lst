@@ -1,5 +1,6 @@
 TaskF$Sum_Followers_Reducer$Stats.class
 TaskE$TaskEReducer.class
+TaskB$UserRecord.class
 TaskH$TaskHMapper.class
 TaskD$TaskDReducer.class
 TaskD.class
@@ -7,7 +8,6 @@ TaskH.class
 TaskG$TaskGMapper.class
 TaskD$TaskDMapper.class
 TaskA.class
-TaskB$DataTuple.class
 TaskF.class
 TaskH$TaskHReducer.class
 TaskF$Sum_Followers_Mapper.class
@@ -21,5 +21,6 @@ TaskA$TaskAReducer.class
 TaskB$TaskBMapper.class
 TaskG.class
 TaskA$TaskAMapper.class
+TaskB$TaskBCombiner.class
 TaskE$TaskEMapper.class
 TaskB.class
