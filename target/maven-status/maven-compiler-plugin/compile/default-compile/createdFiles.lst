@@ -6,16 +6,20 @@ TaskD$TaskDReducer.class
 TaskD.class
 TaskH.class
 TaskG$TaskGMapper.class
-TaskD$TaskDMapper.class
 TaskA.class
+<<<<<<< HEAD
+TaskD$TaskDMapper.class
+TaskB$DataTuple.class
+=======
+>>>>>>> main
 TaskF.class
 TaskH$TaskHReducer.class
 TaskF$Sum_Followers_Mapper.class
-TaskF$TASKFMapper.class
 TaskC$TaskCMapper.class
+TaskF$TASKFMapper.class
 TaskE.class
-TaskF$Sum_Followers_Reducer.class
 TaskC.class
+TaskF$Sum_Followers_Reducer.class
 TaskB$TaskBReducer.class
 TaskA$TaskAReducer.class
 TaskB$TaskBMapper.class
